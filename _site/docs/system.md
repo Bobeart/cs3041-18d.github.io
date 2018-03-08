@@ -14,9 +14,9 @@ A written report and an oral presentation are required. The report is expected 5
 
 
 ## Project Progress Reports and Presentations
-While we will exchange information about the project at each of our weekly meetings, two formal progress reports and presentations are required during the semester (sometimes during the 5th week and the 10th week). The reports are expected to be 3-5 pages (1,200 to 1,500 words) and presentations about 15 minutes each. Each report should include the following:
+While we will exchange information about the project at each of our weekly meetings, two formal progress reports and presentations are required during the term (sometimes during the 5th week and the 10th week). The reports are expected to be 3-5 pages (1,200 to 1,500 words) and presentations about 15 minutes each. Each report should include the following:
 
 - Current status of the project
-- Team plan for the rest of the semester
+- Team plan for the rest of the term
 - Any successful stories or difficulties during the past weeks
 - Reflections of the team
