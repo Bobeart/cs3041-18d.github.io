@@ -3,10 +3,11 @@ layout: page
 title: Syllabus
 ---
 
-- **Instructor:** [Evan M. Peck](http://www.eg.bucknell.edu/~emp017)
-- **Office:** Dana 334
-- **Phone:** 570-577-2345
-- **Office Hours:** [See my calendar](http://www.eg.bucknell.edu/~emp017/calendar.html). Try to make it to my listed office hours _first_. If you have conflicts, look at my calendar and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
+- **Instructor:** [Lane T. Harrison](http://web.cs.wpi.edu/~ltharrison/)
+- **Office:** Fuller 136
+- **Email:** <ltharrison@wpi.edu>
+- **Phone:** 980-200-8363
+- **Office Hours:** [See my website]http://web.cs.wpi.edu/~ltharrison/). Try to make it to my listed office hours _first_. If you have conflicts, email me and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
 - **Course Website:** [http://www.eg.bucknell.edu/~emp017/hci/](http://www.eg.bucknell.edu/~emp017/hci/)
 - **Slack site:** [https://bucknellhcifall2017.slack.com](https://bucknellhcifall2017.slack.com/signup)
 
@@ -60,7 +61,7 @@ HCI is a diverse field. It has computer scientists, psychologists, sociologists,
 - Before 8:30am the morning of their call, indicate which current questions on Slack that you like (with emoji, a comment, whatever). We will ask the top 3-5 questions submitted each week.
 
 ## Design Sprints | Course Overview
-The core of the work in this class will fall under the broad category of "Design Modules" - worth 50% of your overall grade. While some of the following will be done entirely in class, other modules will be done in teams with more formal feedback mechanisms. Included below are a set of examples of what these design sprints might emphasize. _The following list will likely change over the course of the semester_. Your output for each of these modules will consist of a [design document](designdocs.html)
+The core of the work in this class will fall under the broad category of "Design Modules" - worth 50% of your overall grade. While some of the following will be done entirely in class, other modules will be done in teams with more formal feedback mechanisms. Included below are a set of examples of what these design sprints might emphasize. _The following list will likely change over the course of the term_. Your output for each of these modules will consist of a [design document](designdocs.html)
 
 - _Airport App Design_
   - Topic: Human-Centered Design Process
@@ -87,7 +88,7 @@ The core of the work in this class will fall under the broad category of "Design
 
 
 ## Final Design Portfolio
-At the end of the semester, each individual student will construct a website that acts as a design portfolio - linking to their work over the course of the semester. In addition, you will write a _design manifesto_ that promotes a philosophy for design, as is evidenced by your work over the semester. [Read more details here](manifesto.html).
+At the end of the term, each individual student will construct a website that acts as a design portfolio - linking to their work over the course of the term. In addition, you will write a _design manifesto_ that promotes a philosophy for design, as is evidenced by your work over the term. [Read more details here](manifesto.html).
 
 
 ## Grading Breakdown
@@ -103,9 +104,9 @@ For many of you, most CS assignments that you've had up until this point had cle
 
 - [**Design Document Rubric:**](designdoc_rubric.pdf) A majority of your assignments will use this rubric. Rather than simply ask "Did you do this?", there will also be the question of "Did you do this _well_?". This often translates to "Did you successfully apply the concepts we learned in class to this assignment?". For example, if you build an app that is functional but breaks many design heuristics... that is **not** a successful application in this class.
 
-- **Peer Evaluation:** Many of the assignments that you complete will include some kind of peer evaluation. Usability isn't a set of knowledge that one single person owns. Instead, software that is usable and works for one person may not for another. We will be critiquing each other's work throughout the semester using the framing of [_I Like, I Wish, What if_](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf) from Stanford's design school.
+- **Peer Evaluation:** Many of the assignments that you complete will include some kind of peer evaluation. Usability isn't a set of knowledge that one single person owns. Instead, software that is usable and works for one person may not for another. We will be critiquing each other's work throughout the term using the framing of [_I Like, I Wish, What if_](https://dschool-old.stanford.edu/wp-content/themes/dschool/method-cards/i-like-i-wish-what-if.pdf) from Stanford's design school.
 
-- **Group Work:** Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates' work. At the end of the semester, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
+- **Group Work:** Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates' work. At the end of the term, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
 
 ### Late Policy
 The core of the design cycle relies on feedback. If you do not complete something on time, then it offsets the entire cycle. In a real job, you _must_ have something to present to your client. I expect the same from you. As a result, I will not accept late assignments. While special circumstances may warrant an extension, failing to complete an assignment in time to present it or get feedback will result either in a 0 or a grade of no more than _half_ your final grade on the the assignment.
@@ -113,4 +114,4 @@ The core of the design cycle relies on feedback. If you do not complete somethin
 **If you cannot complete an assignment,** you should turn in whatever work that you have completed along with a reflection on the assignment (Why couldn't you finish it? What was harder than you expected?). I will provide a standard Google Form on our website for this submission.
 
 ## Special Accommodations
-If you have a physical, mental or learning disability, either hidden or visible, which may require classroom, test-taking, or other reasonable modifications, please see your Associate Dean as soon as possible. If you have been granted special accommodations, please inform your instructors in a timely manner (a week before accommodations are needed would be considered timely). Any student who may need an accommodation based on the impact of a disability should contact the Director of the Office of Accessibility Resources at 570-577-1188.   
+If you need course adaptations or accommodations because of a disability, or if you have medical information to share with me that may impact your performance or participation in this course, please make an appointment with me as soon as possible. If you have approved accommodations, please request your accommodation letters online through the Office of Disability Services student portal. If you have not already done so, students with disabilities who need to utilize accommodations in this class are encouraged to contact the Office of Disability Services (ODS) as soon as possible to ensure that such accommodations are implemented in a timely fashion. This office can be contacted via email: <DisabilityServices@wpi.edu>, via phone: (508) 831-4908, or in person: Daniels Hall 124.

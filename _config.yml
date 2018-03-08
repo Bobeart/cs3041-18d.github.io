@@ -16,7 +16,7 @@
 title: CS3041 | HCI
 email: ltharrison@wpi.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The course website for WPI's Human-Computer Interaction course.
+  The course website for WPI's Human-Computer Interaction course and is addapted from Evan Peck's own course.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  codementum

@@ -41,7 +41,7 @@ Both are valuable perspectives, and there are tradeoffs between the two. To help
 ### Your Design Process
 Before you got to this class, you should have read about the [five design-sheet (FdS)](http://fds.design/) approach for information visualization. You should walk through [all five stages](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf) of FdS. Make sure to get feedback from other students in the class as part of your design process!
 
-> Over the course of the semester, I am going to give fewer and fewer detailed instructions about how to run your design process. This is intentional! As we become more familiar with it, I expect you to be able to apply it yourself to any new technological domain
+> Over the course of the term, I am going to give fewer and fewer detailed instructions about how to run your design process. This is intentional! As we become more familiar with it, I expect you to be able to apply it yourself to any new technological domain
 
 ### Build it.
 Just build it. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That's okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.
@@ -54,21 +54,11 @@ Just build it. Note that you may run into tensions between your imagined visuali
 
 -------------------
 ## Some Tech Tips
-Over the past summer, I had another student - Gabbi LaBorwitt ('20) - complete each of these assignments to help me determine where students might encounter problems. From this project on, I will include her notes on the tech you'll be using.
+Over the past summer, I had a colleague complete each of these assignments to help me determine where students might encounter problems. From this project on, I will include her notes on the tech you'll be using.
 
 
 ### Getting Started: Creating a website
-_If you've never hosted a website on Bucknell's Linux servers before, here's how_
-
-  1. On your computer open up your server space (aka your home folder) and create a folder called `public_html`
-      - *MAC USERS*: If you're not using a Linux machine before beginning go to your desktop and hit `command+K` and type `smb://unixspace/linux-YOURUSERNAME.$` Once you hit enter a folder should pop-up with all of your BU Linux files
-  2. In your `public_html` folder, create a second folder called `bucknell-hci`. Then, create document titled `index.html` and type something like "Hello World" inside it so we can test if it works. Afterward, you should change the name of this file to reflect what it contains.
-  3. Open up Terminal and navigate it to your new folder
-      - Linux Shortcut: right click on anywhere inside your folder and "Open in Terminal" should appear as one of the first options. Click that to save time navigating.
-  4. In the command line type `chmod 755 index.html`
-      - This changes the file's permissions to allow people from the outside see the contents.
-  5. Now go online to `eg.bucknell.edu/~YOURUSERNAME/bucknell-hci/` to be able to see it.
-      - Added bonus: You can use this space as personal website for the rest of your time at Bucknell, too.
+_If you've never hosted a website on WPI's Linux servers before, start by following the steps [here](https://its.wpi.edu/Article/Create-a-Personal-or-Group-Website-at-WPI)._
 
 -------------------
 

@@ -23,7 +23,7 @@ To start out this design sprint you should....
 
 ...
 
-We're getting towards last third of the semester, which means it's time for me to stop telling you how to apply the design process. Instead, you'll need to work out yourself how best to **ideate**, **prototype**, and **test** in a new domain. _This is the most important outcome of the course_. Technology will rapidly on shift and move for years after you leave Bucknell. If you can leave HCI with a process and methodology that informs _good design_ in any context, then this course is a success.
+We're getting towards last third of the term, which means it's time for me to stop telling you how to apply the design process. Instead, you'll need to work out yourself how best to **ideate**, **prototype**, and **test** in a new domain. _This is the most important outcome of the course_. Technology will rapidly on shift and move for years after you leave Bucknell. If you can leave HCI with a process and methodology that informs _good design_ in any context, then this course is a success.
 
 ### Some Tips Before You Start
 
@@ -35,9 +35,7 @@ We're getting towards last third of the semester, which means it's time for me t
 
 - **Focus on what should _trigger_ your system's response.** While the response itself is important, **when** that change occurs is possibly even more important. Consider what might happen if you made a change *every* time affectiva detected that a person was angry. Remember that Affectiva frequently samples data, so you may not want to respond with _every_ single state prediction, especially when it is messy. Some approaches I've seen in the past include generating a moving average of recent data to smooth out noisy data... then setting thresholds for response.
 
-- **Feel free to run ideas by me - that's what I'm here for!** My dissertation dealt with [building computer applications that responded to neural input](http://www.eg.bucknell.edu/~emp017/papers/epeck_thesis.pdf), and I have been involved in [quite](http://www.eg.bucknell.edu/~emp017/papers/yuksel_musiclearning_2016.pdf) [a few](http://www.eg.bucknell.edu/~emp017/papers/emovis_iui.pdf) [projects](http://www.eg.bucknell.edu/~emp017/papers/Peck-Computer15.pdf) [that](http://www.eg.bucknell.edu/~emp017/papers/tochi_15.pdf) [deal](http://www.eg.bucknell.edu/~emp017/papers/yuksel_NIME2015.pdf) with [messy](http://www.eg.bucknell.edu/~emp017/papers/afergan_uist2014.pdf), [real-time](http://www.eg.bucknell.edu/~emp017/papers/chi14_dynamicdifficulty.pdf) [data](http://www.eg.bucknell.edu/~emp017/papers/epeck_AH2013.pdf).
-
-- **A warning.** Because of a combination of messy input + web programming, this has the potential to be the most challenging _technical_ project of the semester. Take this into account when allocating your time! Even in the earliest stages, it's worth having someone on the team begin familiarizing themselves with how to respond to and manipulate webpages. To help enforce this, **on Tuesday, October 31st, we will have a team quiz rather than an individual quiz**. The quiz will involve both content from the reading _as well as_ simple HTML + javascript questions that are directly related to the given demonstration code (see below).
+- **A warning.** Because of a combination of messy input + web programming, this has the potential to be the most challenging _technical_ project of the term. Take this into account when allocating your time! Even in the earliest stages, it's worth having someone on the team begin familiarizing themselves with how to respond to and manipulate webpages. To help enforce this, **on Tuesday, October 31st, we will have a team quiz rather than an individual quiz**. The quiz will involve both content from the reading _as well as_ simple HTML + javascript questions that are directly related to the given demonstration code (see below).
 
 ### Deliverables
 - As always: Your design reflection as a Medium blog post. **You WILL need a demo video**.

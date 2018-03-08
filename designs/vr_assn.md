@@ -10,7 +10,7 @@ exclude: true
 
 In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling!
 
-As your final design sprint of the semester, consider this to be your most open-ended assignment. You pick your objective, you decide how to design for it, you decide what to build.
+As your final design sprint of the term, consider this to be your most open-ended assignment. You pick your objective, you decide how to design for it, you decide what to build.
 
 That's it.
 
