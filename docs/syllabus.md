@@ -7,7 +7,7 @@ title: Syllabus
 - **Office:** Fuller 136
 - **Email:** <ltharrison@wpi.edu>
 - **Phone:** 980-200-8363
-- **Office Hours:** [See my website]http://web.cs.wpi.edu/~ltharrison/). Try to make it to my listed office hours _first_. If you have conflicts, email me and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
+- **Office Hours:** [See my website](http://web.cs.wpi.edu/~ltharrison/). Try to make it to my listed office hours _first_. If you have conflicts, email me and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
 - **Course Website:** [http://www.eg.bucknell.edu/~emp017/hci/](http://www.eg.bucknell.edu/~emp017/hci/)
 - **Slack site:** [https://bucknellhcifall2017.slack.com](https://bucknellhcifall2017.slack.com/signup)
 
