@@ -12,7 +12,7 @@ For computer scientists, the word _design_ is too often used exclusively in the 
 
 In this course, we will study both people and technology to  understand the behavior that computers encourage or constrain. Through a variety of modalities (chatbots, 3D user interfaces, visualization, etc), we will deliberately practice processes that result in useful, usable, and maybe even inspirational computer interfaces.  
 
-- **Who:** Prof. [Evan Peck](http://www.eg.bucknell.edu/~emp017/)
+- **Who:** Prof. [Lane Harrison](https://web.cs.wpi.edu/~ltharrison/)
 - **Where:** Dana 132
 - **When:** 9:30 - 10:52am, Tuesday/Thursday
 

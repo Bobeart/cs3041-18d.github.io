@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS3041 | HCI
-email: your-email@example.com
+email: ltharrison@wpi.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The course website for Bucknell University's Human-Computer Interaction course.
+  The course website for WPI's Human-Computer Interaction course.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: evanmpeck
-github_username:  evanpeck
+github_username:  codementum
 
 # Build settings
 markdown: kramdown
