@@ -35,3 +35,7 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 - [Design for Another World](designs/vr_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-another-world) \| _11/30_ \| _12/03_
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of our finals slot_
+
+## Attribution
+This course is heavily adapted from Prof. Evan Peck's HCI course at Bucknell University.
+Thanks Evan!
