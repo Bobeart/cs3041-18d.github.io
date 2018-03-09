@@ -15,17 +15,17 @@ It's time to begin the design process. This first design sprint will force you t
 
 1. Visual Design
 2. Sketching for Ideation (using paper)
-3. Prototyping Tools (using [invision](invisionapp.com))
+3. Prototyping Tools (using [invision](invisionapp.com) or [Adobe XD](https://www.adobe.com/products/xd.html))
 
 Typically, a *critical* portion of the user-centered design process is getting feedback from real users. In the interest of time, we won't be doing that in this (short) design sprint. However, it doesn't mean that you are ignoring their needs...
 
 ## Designing for Others
 
-In this design sprint, you will take an existing website by a local organization and redesign it **for mobile phones**:
+In this design sprint, you will take one of the following existing websites by a local organization and redesign it **for mobile phones**:
 
-1. [Weis Center](https://www.bucknell.edu/WeisCenter)
-2. [Campus Theatre](https://www.campustheatre.org/)
-3. [Union County Library System](http://unioncountylibraries.org/)
+1. [WCTI](https://www.wcti.org/)
+2. [Technocopia](http://technocopia.org/)
+3. [Worcester Public Library](http://unioncountylibraries.org/)
 
 
 **Here's the catch:** you aren't just translating the exiting design to a mobile context for the general public. Instead, imagine that your users' mobile phones redesigned the website on the fly to _specifically cater to their needs and preferences_.

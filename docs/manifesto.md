@@ -24,7 +24,7 @@ Together, these questions should guide you to **at least 5 main points that defi
 Your takeaways should be evidence-driven. That means that when you discuss these topics, you should frequently reference (and show examples of!) the projects that you completed.
 
 ### Quality Checks
-- **Length:** In _Medium_ terms, your post should be roughly 10-13 minutes long in read time.  
+- **Length:** In _Medium_ terms, your post should be roughly 5-10 minutes long in read time.  
 - **Clarity:** Your post should be cohesive in quality. There should be an introduction, a body, and a conclusion. Does it read like 5 scattered ideas or do they come together to form a central thesis?  
 - **Evidence-Driven:** By this point, you should have a rich store of multimedia from your term - videos, photos, gifts, etc. Each of your takeaways should be informed by the experiences from your projects. So when you discuss them, you should include visual references and/or videos (from the class) to what you are talking about. Your _manifesto_ should also be supported considerably by real design principles and ideas that have encountered throughout the reading you have done this term. Link to those pieces when you discuss them!
 
@@ -38,14 +38,4 @@ At a minimum, the page must:
 
 **Note:** Because you are linking to Medium, you may want to consider how the design of your webpage compliments or clashes with the design of Medium as a platform.
 
-### On Wordpress
-You are welcome to create your design page with any technology that you'd like. If you are not familiar with web design, I'd encourage you to look into Wordpress, which Bucknell supports and can be hosted on Bucknell's servers.
-
-There are a number of design questions you need to answer:
-- How will you visually organize your work?
-- How will you represent your work? - Do you want videos embedded on this site? Do you want images that link to Medium posts?
-- How much writing is on the page? Is it simple and clean, or does it longer and descriptive?
-
-**To get started**, head over to [blogs.bucknell.edu](http://www.blogs.bucknell.edu/) and click the `Login` button.
-
-Particularly for the context of a course like this, I think it is important that you don't simply take the theme at face value, but modify it to fit your own goals.
+I recommend using **Github Pages** to host your website. In fact, this very website uses a combination of Github Pages and Jekyll. You can find instructions for how to set this up for a _project_ site [here](https://pages.github.com/).
