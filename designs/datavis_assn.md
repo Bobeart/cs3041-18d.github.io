@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4 (likely working pairs)
-- **Demo Day:** 9/26 _in class_
-- **Design Doc Due:** 9/28, 12pm
+- **Demo Day:** 3/30 _in class_
+- **Design Doc Due:** 4/2, 11:59 PM
 
 
 ## Overview
@@ -50,7 +50,7 @@ Just build it. Note that you may run into tensions between your imagined visuali
 ## Deliverables
 - As always: Your design reflection as a Medium blog post. Like the last assignment, **you do not need a demo video**
   - Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
-- Both of your designs should be hosted on Bucknell's servers with publicly accessible links. These links should be clearly included into your design reflection.
+- Both of your designs should be hosted on WPI's servers with publicly accessible links. These links should be clearly included into your design reflection.
 
 -------------------
 ## Some Tech Tips

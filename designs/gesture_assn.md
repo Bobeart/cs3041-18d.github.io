@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 10/26 _in class_
-- **Design Doc Due:** 10/29, 11pm
+- **Demo Day:** 4/13 _in class_
+- **Design Doc Due:** 4/16, 11:59 PM
 
 ## Overview
 

@@ -24,11 +24,11 @@ exclude: true
 - [FindA.Photo:](http://finda.photo/) search engine for free stock photos that includes search-by-color
 - [Pexels:](https://www.pexels.com/) high quality free stock photos that you can use
 - [Frontify:](https://frontify.com/styleguide) rapidly create a style guide for your app
-- [Bucknell's Music and Sound Resources:](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579601) Bucknell students have access to a vast store of background music and sound that they can pay without licensing fees.
-- [Bucknell's Video Resources](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579600): Similarly, Bucknell students have access to copyright- and royalty-free stock video footage.
+- [Unsplash:](https://unsplash.com/) you can find high-resolution royalty-free photos here.
 
 ### Prototyping
 - [inVision:](http://www.invisionapp.com/) create prototypes for web or mobile. Lots of integrations. My favorite prototyping tool right now. **Note: we have a class code for free unlimited use until 6 months after you graduate.**
+- [Adobe XD:](https://www.adobe.com/products/xd.html) Adobe's new interface design tool. It just came out of beta and if you have Adobe Creative Cloud I suggest you try it out.
 - [Marvel:](https://marvelapp.com/) create desktop and mobile prototypes. Integrates with Sketch. Nice free plan.
 - [Facebook Design Resources:](http://facebook.github.io/design/) a set of images and tools curated by Facebook to be used during UI prototyping.
 

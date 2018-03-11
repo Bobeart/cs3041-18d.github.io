@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 3 (one team of 4)
-- **Demo Day:** 9/12 _in class_
-- **Design Doc Due:** 9/14, 12pm
+- **Demo Day:** 3/23 _in class_
+- **Design Doc Due:** 3/26, 11:59 PM
 
 ## Overview
 **Before you begin:** Read this entire document and consider how you might want to split up work.
@@ -76,7 +76,7 @@ Invision is fantastic, but it isn't magic. You're still going to need to create 
 
 ## Deliverables
 - **Demo Day (9/12):** You should have an invision link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
-- **Delivery Day (9/14):** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on this [assignment's page on our wiki](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-others). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
+- **Delivery Day (9/14):** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on this [assignment's page on our wiki](https://github.com/cs3041-18d/design-for-others/wiki). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
   - pictures of your various sketches
   - a picture of your moodboard
   - pictures of your final product (more broadly, the evolution of your design should be clear)

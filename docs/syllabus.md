@@ -8,8 +8,8 @@ title: Syllabus
 - **Email:** <ltharrison@wpi.edu>
 - **Phone:** 980-200-8363
 - **Office Hours:** [See my website](http://web.cs.wpi.edu/~ltharrison/). Try to make it to my listed office hours _first_. If you have conflicts, email me and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
-- **Course Website:** [http://www.eg.bucknell.edu/~emp017/hci/](http://www.eg.bucknell.edu/~emp017/hci/)
-- **Slack site:** [https://bucknellhcifall2017.slack.com](https://bucknellhcifall2017.slack.com/signup)
+- **Course Website:** <https://cs3041-18d.github.io/>
+- **Slack site:** [https://cs3041-18d.slack.com](https://join.slack.com/t/cs3041-18d/shared_invite/enQtMzI3ODg5MTY5MTU5LTA4ODU2YjA0ZDdhN2E5YzYyZDM0YjI3NjA1ZDhjOTQ2YjZhMWVhYjM5MjNjOTE4OGU1ODExMWFjYjYxMDBmMDQ)
 
 ## Why it's not just about Computer Science
 Every year that you have attended school, computers have been increasingly woven into the fabric of your everyday life. We don't interact with computers simply when we sit in front of their screens anymore. They are in front of our faces when we eat dinner, telling us where to go when we drive our cars, and the medium through which we express many of our relationships.
@@ -40,7 +40,7 @@ While many HCI courses come with a standard text book, I believe that there is m
 
 Each week, our course schedule will contain a set of content you are asked to consume. Often this will involve short readings, YouTube videos, podcasts, or slide decks. My goal is to transform the lecture section of the course into a design studio as much as possible. While there will a lecture roughly once a week, talking through a million examples only gives you limited design capabilities. Iterating through, presenting, and critiquing each others' designs is where you will really learn to build in a human-centered way.
 
-Aside from internet sources, here are a few of the excellent books that we will be drawing from (I'll link to restricted pdf excerpts). If you want to dive deeper, they are all freely available to borrow as ebooks from the Bucknell Library:
+Aside from internet sources, here are a few of the excellent books that we will be drawing from (I'll link to restricted pdf excerpts). If you want to dive deeper, they are all freely available to borrow as ebooks from the WPI's Library:
 - _Designing with the Mind in Mind_ by Jeff Johnson
 - _The Design of Everyday Things_ by Don Norman
 - _Human-Computer Interaction : An Empirical Research Perspective_ by Scott MacKenzie

@@ -13,8 +13,8 @@ For computer scientists, the word _design_ is too often used exclusively in the 
 In this course, we will study both people and technology to  understand the behavior that computers encourage or constrain. Through a variety of modalities (chatbots, 3D user interfaces, visualization, etc), we will deliberately practice processes that result in useful, usable, and maybe even inspirational computer interfaces.  
 
 - **Who:** Prof. [Lane T. Harrison](https://web.cs.wpi.edu/~ltharrison/)
-- **Where:** TBD
-- **When:** TBD, MTThF
+- **Where:** AK 233
+- **When:** 12:00-12:50, MTThF
 
 ## Resources
 - [Course Syllabus](docs/syllabus.html)
@@ -26,13 +26,13 @@ In this course, we will study both people and technology to  understand the beha
 ## Designing
 _For examples of student work, see the [CSCI379 publication](https://medium.com/bucknell-hci/tagged/csci379-hci) page at [Bucknell HCI's Medium](https://medium.com/bucknell-hci)_
 
-- [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/goodbad_assn) \| _Due 8/31, 9:30am_
-- [Design for Others](designs/visual_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-others) \| _Demo 9/12_ \| _Doc 9/14_
-- [Design for Understanding](designs/datavis_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-understanding) \| _Demo 9/26_ \| _Doc 9/28_
-- [Design for Tension](designs/chatbot_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-tension) \| _Demo 10/12_ \| _Doc 10/15 (11pm)_
-- [Design for Fun](designs/gesture_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-fun) \| _10/26_ \| _10/29_
-- [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-wellbeing) \| _11/09_ \| _11/12_
-- [Design for Another World](designs/vr_assn.html) **-->** [submit](https://gitlab.bucknell.edu/bucknell-hci/bucknell-hci-fa2017/wikis/design-for-another-world) \| _11/30_ \| _12/03_
+- [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://github.com/cs3041-18d/goodbad_assn) \| _Due 3/16, 11:59 PM_
+- [Design for Others](designs/visual_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-others/wiki) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
+- [Design for Understanding](designs/datavis_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-understanding/wiki) \| _Demo 3/30_ \| _Doc 4/2, 11:59 PM_
+- [Design for Tension](designs/chatbot_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-tension/wiki) \| _Demo 4/6_ \| _Doc 4/9 , 11:59 PM_
+- [Design for Fun](designs/gesture_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-fun/wiki) \| _Demo 4/13_ \| _Doc 4/16, 11:59 PM_
+- [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-wellbeing/wiki) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
+- [Design for Another World](designs/vr_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-another-world/wiki) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of our finals slot_
 

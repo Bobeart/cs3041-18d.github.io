@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 11/30 _in class_
-- **Design Doc Due:** 12/03, 11pm
+- **Demo Day:** 4/27 _in class_
+- **Design Doc Due:** 4/30, 11:59 PM
 
 In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling!
 

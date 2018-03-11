@@ -6,7 +6,7 @@ exclude: true
 
 At the conclusion of each design sprint, you and your team will construct a public facing document that presents your process and outcome. This will consist of:
 
-1. **A post on Medium.com**. You may choose to make this a private or public link. However, I am hoping to choose the 2 or 3 consensus favorite outcomes of each assignment and make them public on the [_Bucknell HCI_ Medium account](https://medium.com/bucknell-hci). **You should paste your link on the wiki of our course**
+1. **A post on Medium.com**. You may choose to make this a private or public link. However, I am hoping to choose the 2 or 3 consensus favorite outcomes of each assignment and make them public on the [_WPI HCI_ Medium account](https://medium.com/wpi-hci). **You should paste your link on the wiki of our course**
 
 2. Embedded in your post, **a demo video** that shows interaction with your technology, highlighting the key design decisions that you made. This will likely require you uploading your video to a public service (such as YouTube). _Note: Some of your assignments may NOT require a video. Read the instructions carefully_.
 
@@ -43,7 +43,7 @@ For a more concrete example, this can serve as an target for what you should sho
 
 ### What does a _good_ post consist of?
 
-Writing a good post for a broad audience is **not** the same as writing a reflection or paper for a class at Bucknell. Carefully reflect on the content, language, and visual design of your post.
+Writing a good post for a broad audience is **not** the same as writing a reflection or paper for a class at WPI. Carefully reflect on the content, language, and visual design of your post.
 
 **Visually, what does a _good_ post look like?** Visit some blogs and scroll through the posts without even reading the content. Despite a lack of content, you are already making judgments about whether this wall of text is worth reading. How are you making these judgments? What is it based on?
 
@@ -90,11 +90,9 @@ Decide whether you want to use music, captions, narrative or some kind of combin
 Somewhere in your design post, a demo video should be embedded that shows interaction with your final project.
 
 ### Multimedia for your Videos
-Since our intention is to be able to broadly share these videos, it is important that we take into account copyright considerations. Fortunately, Bucknell has compiled a wonderful list of resources that should provide you with a vast library of sound, video, and images to accompany your videos and make them look as professional as possible.
-
-- [_Bucknell's Music and Sound resources_](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579601): In particular, I would recommend the AudioBlocks link on this site, which Bucknell has a license for. I have found it to be a great resources for everything from sound effects to background music.
-
-- [_Bucknell's Video Resources_](http://researchbysubject.bucknell.edu/c.php?g=89792&p=579600): Similar to AudioBlocks, VideoBlocks will allow you to download snippets of video that you can freely use in your own movies (if needed).
+Since our intention is to be able to broadly share these videos, it is important that we take into account copyright considerations. The following is a list of royalty-free high quality resources for you to use. _We will be updating this list throughout the term._
+- [Unsplash:](https://unsplash.com/) you can find high-resolution royalty-free photos here.
+- **More to come.**
 
 ### Recording your Video
 Your video should be as high quality as possible. For many of your screen-based products, you'll want some kind of screen-capturing software.

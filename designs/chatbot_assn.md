@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 10/12 _in class_
-- **Design Doc Due:** 10/15, 11pm
+- **Demo Day:** 4/6 _in class_
+- **Design Doc Due:** 4/9, 11:59 PM
 
 In this design sprint, you will create a chatbot that **attempts to tackle a tense topic, such as political divides**. This is (intentionally) an overly lofty design objective. Your goal isn't to solve your problem, but to try and tackle one small component of it. For example, you could try to create a bot that pushes people outside of their filter bubbles by pointing them towards news sources they might be unlikely to see. Maybe you create something that forces people to reflect on their own beliefs for just a moment.
 

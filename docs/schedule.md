@@ -3,6 +3,8 @@ layout: page
 title: Reading Schedule
 ---
 
+**Updated:** March 11, 2018
+
 ## Week 1
 
 #### Mon. 3/12 **| Introductions + User-Centered Design**
@@ -50,7 +52,6 @@ title: Reading Schedule
 - _OPTIONAL:_  [Bad typography has ruined more than just the Oscars](https://www.youtube.com/watch?v=eZSe4xVXHhI)
 
 #### Tue. 3/20 **| Visual Design Demo Day**
-- DUE: [Design for Others Demo](../designs/visual_assn.html)
 - WATCH (17 minutes): [Scott Klemmer: Heuristic Evaluation - Why and How](https://www.youtube.com/watch?v=YZq7nKR9BWw)
 
 #### Thu. 3/22 **| Data Visualization**
@@ -61,15 +62,15 @@ title: Reading Schedule
 - _OPTIONAL:_ [Data Storytelling: The Ultimate Collection of Resources](http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii)
 
 #### Fri. 3/23 **| More than just Data**
-- DUE: [Design for Others Design Doc](../designs/visual_assn.html)
+- DUE: [Design for Others Demo](../designs/visual_assn.html)
 
 ## Week 3
 
 #### Mon. 3/26 **| Hack Day + Interactive Vis**
+- DUE: [Design for Others Design Doc](../designs/visual_assn.html)
 - _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE!)](https://drive.google.com/open?id=0B9wW7gtF6dvRYlZKTndqR2lRcFk)
 
 #### Tue. 3/27 **| Demo Day + User Testing**
-- DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
 - READ (22 slides): [User Testing by Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZkxSWksybVk5WTg)
 - WATCH: [Rocket Surgery Made Easy: Usability Demo (Steve Krug)](https://www.youtube.com/watch?v=QckIzHC99Xc)
 
@@ -79,7 +80,7 @@ title: Reading Schedule
 - _REFERENCE:_  [People + Computation Slides from Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
 
 #### Fri. 3/30 **| Conversational Interfaces**
-- DUE: [Design for Understanding Doc](../designs/datavis_assn.html)
+- DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
 - Work on chatbots.
 - READ (14 minutes): [Technical and social challenges of conversational design](https://uxdesign.cc/my-website-is-now-conversational-here-is-what-i-learned-7e943cc6ace0)
 - READ (9 minutes): [How to design a robust chatbot interaction](https://uxdesign.cc/how-to-design-a-robust-chatbot-interaction-8bb6dfae34fb)
@@ -90,10 +91,10 @@ title: Reading Schedule
 ## Week 4
 
 #### Mon. 4/2 **| Chatbot Hack Day**
--   Work on chatbots
+- DUE: [Design for Understanding Doc](../designs/datavis_assn.html)
+- Work on chatbots
 
 #### Tue. 4/3 **| Chatbot Demos + Doc**
-- DUE: [Design for Tension Demo](../designs/chatbot_assn.html)
 - DUE: Chatbot Doc (Sunday at 11pm)
 
 #### Thu. 4/5 **| 3D User Interfaces + Fun**
@@ -104,18 +105,17 @@ title: Reading Schedule
 - READ (7 pages): [Make Things Engaging](https://drive.google.com/open?id=0B9wW7gtF6dvRd0lrQUlpQVBHczg)
 
 #### Fri. 4/6 **| Leap Motion Hack Day**
+- DUE: [Design for Tension Demo](../designs/chatbot_assn.html)
 - READ: [8 Prototypes that Show the Future of HCI](https://www.fastcodesign.com/3059848/8-incredible-prototypes-that-show-the-future-of-human-computer-interaction)
 - READ (4 pages): [Gesture Interfaces: A Step Backward in Usability](http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf)
 
 ## Week 5
 
 #### Mon. 4/9 **| Input Technologies and Techniques**
+- DUE: [Design for Tension Doc](../designs/chatbot_assn.html)
 - READ (35 pages): [Input Technologies and Techniques (Ken Hinckley and Daniel Wigdor)](https://drive.google.com/open?id=0B9wW7gtF6dvROWZXYTVpSzVoaE0)
 
-#### Tue. 4/10 **| Design for Fun Demo Day**
-- DUE: Design for Fun Demo Day
-
-#### Thu. 4/12 **| Affective Computing**
+#### Tue. 4/11 **| Affective Computing**
 _Start [Design for Wellbeing](../designs/emotion_assn.html)_
 
 **Note: This will be a GROUP quiz with the intention that one or more group members can focus primarily on javascript/HTML**
@@ -133,22 +133,25 @@ _Javascript and JQuery (Do enough to know basics)_
 - [Learn JQuery Core](https://learn.jquery.com/using-jquery-core/)
 - Look over and understand the code from [Design for Wellbeing](../designs/emotion_assn.html)
 
-#### Fri. 4/13 **| Affectiva Hack Day**
+#### Thu. 4/12 **| Affectiva Hack Day**
 _Hack on Affectiva!_
 - WATCH (20 minutes): [The Future of Affective Computing](https://www.youtube.com/watch?v=bbGP53IIMfg)
+
+#### Fri. 4/13 **| Design for Fun Demo Day**
+- DUE: [Design for Fun Demo](../designs/gesture_assn.html)
 
 ## Week 6
 
 #### Mon. 4/16 **| Patriots' Day Holiday**
-
 _No class. Patriots' Day._
+- DUE: [Design for Fun Doc](../designs/gesture_assn.html)
 
 #### Tue. 4/17 **| Intelligent User Interfaces**
 - READ (Intro + Principles): [Principles of Mixed-Initiative User Interfaces (Eric Horvitz)](http://erichorvitz.com/chi99horvitz.pdf
 - READ (Intro + Usability Principles): [Steps to Take Before Intelligent User Interfaces Become Real (Kristina Höök)](https://drive.google.com/open?id=0B9wW7gtF6dvRNXU5b1BYaWhPMzg)
 
 #### Thu. 4/19 **| Design for Wellbeing Demo Day**
-- DUE: Design for Wellbeing Demo Day
+- DUE: [Design for Wellbeing Demo](../designs/emotion_assn.html)
 
 #### Fri. 4/20 | WPI Project Presentation Day
 _No class. WPI Project Presentation day._
@@ -156,6 +159,7 @@ _No class. WPI Project Presentation day._
 ## Week 7
 
 #### Mon. 4/23 **| Virtual Reality (+ some Augmented Reality)**
+- DUE: [Design for Wellbeing Doc](../designs/emotion_assn.html)
 
 _Start Design for Another World_
 
@@ -183,11 +187,12 @@ _Hack on VR!_
 - READ: [Virtual Reality Frontiers (Steven M. Lavalle)](http://vr.cs.uiuc.edu/vrch13.pdf)
 
 #### Fri. 4/27 **| VR Demo Day**
-- DUE: Design for Another World Demo Day
+- DUE: [Design for Another World Demo](../designs/vr_assn.html)
 
 ## Week 8
 
 #### Mon. 4/30 **| Lunch-Hour Demos!**
+- DUE: [Design for Another World Doc](../designs/vr_assn.html)
 - OPTIONAL!: Bring out our favorite demos for food + a lunch-hour demo event.
 
 #### Tue (Fri). 5/1 **| Where do we go from here?**

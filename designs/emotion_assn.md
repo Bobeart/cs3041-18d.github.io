@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 11/09 _in class_
-- **Design Doc Due:** 11/12, 11pm
+- **Demo Day:** 4/19 _in class_
+- **Design Doc Due:** 4/23, 11L59 PM
 
 In this design sprint, we will be considering what it will mean for our computer devices to be attentive to us in ways that haven't in the past. **We'll use [Affectiva libraries](https://knowledge.affectiva.com/v3.3/docs/getting-started-with-the-emotion-sdk-for-javascript) to design a website that responds to user emotion, with the end goal of [promoting wellbeing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6679310)** (broadly defined on purpose!).
 
@@ -23,7 +23,7 @@ To start out this design sprint you should....
 
 ...
 
-We're getting towards last third of the term, which means it's time for me to stop telling you how to apply the design process. Instead, you'll need to work out yourself how best to **ideate**, **prototype**, and **test** in a new domain. _This is the most important outcome of the course_. Technology will rapidly on shift and move for years after you leave Bucknell. If you can leave HCI with a process and methodology that informs _good design_ in any context, then this course is a success.
+We're getting towards last third of the term, which means it's time for me to stop telling you how to apply the design process. Instead, you'll need to work out yourself how best to **ideate**, **prototype**, and **test** in a new domain. _This is the most important outcome of the course_. Technology will rapidly on shift and move for years after you leave WPI. If you can leave HCI with a process and methodology that informs _good design_ in any context, then this course is a success.
 
 ### Some Tips Before You Start
 
