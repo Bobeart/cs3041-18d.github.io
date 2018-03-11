@@ -54,11 +54,11 @@ One of the goals of the course is for you to slowly begin to observe how people 
 - For each group assignment, you will be asked to write a design reflection or report. **Please carefully [read this document](/docs/designdocs.html) to understand my expectations for these docs**
 - While you are more than welcome to make it a public post, Medium also has an option that limits visibility of the post _only to people who have the link_. This will allow me and your classmates to see your writing, but will hide your work from search engines and the general public.
 - You will submit the link of your post to the forum specified by the assignment. In general, this will either be Slack or our course wiki (hosted on Gitlab). -->
-
+<!-- 
 ### Video Visitors | Slack
 HCI is a diverse field. It has computer scientists, psychologists, sociologists, historians, artists, and everything in between. Giving you one perspective (my perspective) would shed light on only a corner of an increasingly exciting field that is shaping how people engage with the world around them. As a result, each week we will have an opportunity to chat with people across this broad spectrum via Google Hangouts. What you need to do:
 - Submit a question on Slack for our guest by 5pm the _day before_ their visit.
-- Before 8:30am the morning of their call, indicate which current questions on Slack that you like (with emoji, a comment, whatever). We will ask the top 3-5 questions submitted each week.
+- Before 8:30am the morning of their call, indicate which current questions on Slack that you like (with emoji, a comment, whatever). We will ask the top 3-5 questions submitted each week. -->
 
 ## Design Sprints | Course Overview
 The core of the work in this class will fall under the broad category of "Design Modules" - worth 50% of your overall grade. While some of the following will be done entirely in class, other modules will be done in teams with more formal feedback mechanisms. Included below are a set of examples of what these design sprints might emphasize. _The following list will likely change over the course of the term_. Your output for each of these modules will consist of a [design document](designdocs.html)

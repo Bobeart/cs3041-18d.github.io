@@ -20,7 +20,7 @@ In this course, we will study both people and technology to  understand the beha
 - [Course Syllabus](docs/syllabus.html)
 - [Reading Schedule](docs/schedule.html)
 - [Design Doc Instructions](docs/designdocs.html)
-- [Slack Group](https://cs3041-18d.slack.com/) \| [Sign Up](https://cs3041-18d.slack.com/signup)
+- [Slack Group](https://cs3041-18d.slack.com/) \| [Join](https://join.slack.com/t/cs3041-18d/shared_invite/enQtMzI3ODg5MTY5MTU5LTA4ODU2YjA0ZDdhN2E5YzYyZDM0YjI3NjA1ZDhjOTQ2YjZhMWVhYjM5MjNjOTE4OGU1ODExMWFjYjYxMDBmMDQ)
 - [Design Resources](docs/resources.html)
 
 ## Designing
@@ -34,7 +34,7 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 - [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-wellbeing/wiki) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
 - [Design for Another World](designs/vr_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-another-world/wiki) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
 
-**Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of our finals slot_
+**Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of the last day of class_
 
 ## Attribution
 This course is heavily adapted from Prof. Evan Peck's HCI course at Bucknell University.
