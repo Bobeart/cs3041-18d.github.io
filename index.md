@@ -26,13 +26,13 @@ In this course, we will study both people and technology to  understand the beha
 ## Designing
 _For examples of student work, see the [CSCI379 publication](https://medium.com/bucknell-hci/tagged/csci379-hci) page at [Bucknell HCI's Medium](https://medium.com/bucknell-hci)_
 
-- [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://github.com/cs3041-18d/goodbad_assn) \| _Due 3/16, 11:59 PM_
-- [Design for Others](designs/visual_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-others/wiki) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
-- [Design for Understanding](designs/datavis_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-understanding/wiki) \| _Demo 3/30_ \| _Doc 4/2, 11:59 PM_
-- [Design for Tension](designs/chatbot_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-tension/wiki) \| _Demo 4/6_ \| _Doc 4/9 , 11:59 PM_
-- [Design for Fun](designs/gesture_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-fun/wiki) \| _Demo 4/13_ \| _Doc 4/16, 11:59 PM_
-- [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-wellbeing/wiki) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
-- [Design for Another World](designs/vr_assn.html) **-->** [submit](https://github.com/cs3041-18d/design-for-another-world/wiki) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
+- [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=0) \| _Due 3/16, 11:59 PM_
+- [Design for Others](designs/visual_assn.html) **-->** [submit](#) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
+- [Design for Understanding](designs/datavis_assn.html) **-->** [submit](#) \| _Demo 3/30_ \| _Doc 4/2, 11:59 PM_
+- [Design for Tension](designs/chatbot_assn.html) **-->** [submit](#) \| _Demo 4/6_ \| _Doc 4/9 , 11:59 PM_
+- [Design for Fun](designs/gesture_assn.html) **-->** [submit](#) \| _Demo 4/13_ \| _Doc 4/16, 11:59 PM_
+- [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](#) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
+- [Design for Another World](designs/vr_assn.html) **-->** [submit](#) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of the last day of class_
 
