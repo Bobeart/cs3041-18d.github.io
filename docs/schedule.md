@@ -11,7 +11,7 @@ title: Reading Schedule
 - _There will be a reading quiz on the following material._
 - READ: [Our Syllabus](../docs/syllabus.html)
 - READ: [Design Docs](../docs/designdocs.html)
-- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](https://drive.google.com/open?id=0B9wW7gtF6dvRVmhkckFpSTVsU0E)
+- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
 - Read/Watch something else about the Human-Centered Design Process
 
 #### Tue. 3/13 **| Need finding + Task Analysis**
@@ -19,9 +19,9 @@ title: Reading Schedule
 - WATCH (12 minutes): [Ethnography: Ellen Isaacs at TEDxBroadway](https://www.youtube.com/watch?v=nV0jY5VgymI)
 - WATCH (4 minutes): [EXAMPLE: Contextual Inquiry: Workforce Mobility](https://www.youtube.com/watch?v=Gd5fA9UQDjE)
 - WATCH (3 minutes): [Insight Through Need-finding](http://ecorner.stanford.edu/videos/3135/Insight-Through-Need-Finding)
-- READ: [Needfinding cheat sheet](https://drive.google.com/open?id=0B9wW7gtF6dvRS2oxcmRZZl9IbDg)
-- READ: [Become Your Users](https://drive.google.com/open?id=0B9wW7gtF6dvRRkpyNngyMlF0RzA)
-- READ: [Task Analysis Tips](https://drive.google.com/open?id=0B9wW7gtF6dvRVE5Od3hGZEVsdTA)
+- READ: [Needfinding cheat sheet](reading/NeedFindingCribSheet.pdf)
+- READ: [Become Your Users](reading/becomeYourUsers_forrester.pdf)
+- READ: [Task Analysis Tips](reading/taskAnalysisTips.pdf)
 - READ: [How to Understand Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 - Read/Watch something else about Need finding, Task Analysis, or Contextual Inquiry
@@ -30,14 +30,14 @@ title: Reading Schedule
 - READ: [How to be Creative by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html)
 - READ: [Ideation Overview (don't answer survey questions)](https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/)
 - READ: [How to Prototype by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html)
-- READ (17 pages): [The anatomy of sketching (Bill Buxton)](https://drive.google.com/open?id=0B9wW7gtF6dvRX2U0UDZIemgxN3c)
+- READ (17 pages): [The anatomy of sketching (Bill Buxton)](reading/sketching_Buxton.pdf)
 - READ (9 minutes): [Why you should be prototyping (Netflix)](https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848)
 - Read/Watch something else about prototyping or ideation
 
 #### Fri. 3/16 **| Human Abilities + Visual Design**
 - DUE: [Good/Bad Design](../designs/goodbad_assn.html)
 - LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
-- READ (80+ slides): [Human Abilities by Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRUjJtYUNxVU1ISjQ)
+- READ (80+ slides): [Human Abilities](TODO)
 - WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
 - READ (7 min): [How to Make Your Not-So-Great Visual Design Better](https://medium.com/facebook-design/how-to-make-your-not-so-great-visual-design-better-67972eee3825)
 - READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
@@ -56,7 +56,7 @@ title: Reading Schedule
 
 #### Thu. 3/22 **| Data Visualization**
 - WATCH (8 min): [The Art of Data Visualization](https://www.youtube.com/watch?v=AdSZJzb-aX8)
-- READ (80 slides): [Data Visualization by Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRajlMTW1kUktuSTA)
+- READ (80 slides): [Data Visualization](TODO)
 - READ/WATCH: [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73) \| [Accompanying Talk](https://www.youtube.com/watch?v=s0J6EDvlN30)
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - _OPTIONAL:_ [Data Storytelling: The Ultimate Collection of Resources](http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii)
@@ -68,16 +68,16 @@ title: Reading Schedule
 
 #### Mon. 3/26 **| Hack Day + Interactive Vis**
 - DUE: [Design for Others Design Doc](../designs/visual_assn.html)
-- _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE!)](https://drive.google.com/open?id=0B9wW7gtF6dvRYlZKTndqR2lRcFk)
+- _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE!)](TODO)
 
 #### Tue. 3/27 **| Demo Day + User Testing**
-- READ (22 slides): [User Testing by Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZkxSWksybVk5WTg)
+- READ (22 slides): [User Testing](TODO)
 - WATCH: [Rocket Surgery Made Easy: Usability Demo (Steve Krug)](https://www.youtube.com/watch?v=QckIzHC99Xc)
 
 #### Thu. 3/29 **| Crowdsourcing + Social Psych**
 - READ: [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
-- _REFERENCE:_  [People + Computation Slides from Prof. Peck](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
+- _REFERENCE:_  [People + Computation Slides](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
 
 #### Fri. 3/30 **| Conversational Interfaces**
 - DUE: [Design for Understanding Demo](../designs/datavis_assn.html)

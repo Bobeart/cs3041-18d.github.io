@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS3041 | HCI
-email: ltharrison@wpi.edu
+title: cs3041-18d-hci
+email: cs3041-staff@cs.wpi.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The course website for WPI's Human-Computer Interaction course and is heavily adapted from Prof. Evan Peck's HCI course at Bucknell University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  codementum
+github_username:  cs3041-18d
 
 # Build settings
 markdown: kramdown

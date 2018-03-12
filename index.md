@@ -37,5 +37,5 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of the last day of class_
 
 ## Attribution
-This course is heavily adapted from Prof. Evan Peck's HCI course at Bucknell University.
+This course is adapted from Prof. Evan Peck's HCI course at Bucknell University.
 Thanks Evan!
