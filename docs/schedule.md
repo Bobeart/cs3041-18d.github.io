@@ -51,7 +51,7 @@ title: Reading Schedule
 - _OPTIONAL:_  [Google I/O 2013 - Cognitive Science and Design](https://www.youtube.com/watch?v=z2exxj4COhU&feature=youtu.be)
 - _OPTIONAL:_  [Bad typography has ruined more than just the Oscars](https://www.youtube.com/watch?v=eZSe4xVXHhI)
 
-#### Tue. 3/20 **| Visual Design Demo Day**
+#### Tue. 3/20 **| Visual Design Hack Day**
 - WATCH (17 minutes): [Scott Klemmer: Heuristic Evaluation - Why and How](https://www.youtube.com/watch?v=YZq7nKR9BWw)
 
 #### Thu. 3/22 **| Data Visualization**
@@ -61,16 +61,16 @@ title: Reading Schedule
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - _OPTIONAL:_ [Data Storytelling: The Ultimate Collection of Resources](http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii)
 
-#### Fri. 3/23 **| More than just Data**
+#### Fri. 3/23 **| Others Demo Day**
 - DUE: [Design for Others Demo](../designs/visual_assn.html)
 
 ## Week 3
 
-#### Mon. 3/26 **| Hack Day + Interactive Vis**
+#### Mon. 3/26 **| Interactive Vis**
 - DUE: [Design for Others Design Doc](../designs/visual_assn.html)
 - _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE!)](TODO)
 
-#### Tue. 3/27 **| Demo Day + User Testing**
+#### Tue. 3/27 **| User Testing + Hack Day**
 - READ (22 slides): [User Testing](TODO)
 - WATCH: [Rocket Surgery Made Easy: Usability Demo (Steve Krug)](https://www.youtube.com/watch?v=QckIzHC99Xc)
 
@@ -79,9 +79,8 @@ title: Reading Schedule
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
 - _REFERENCE:_  [People + Computation Slides](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
 
-#### Fri. 3/30 **| Conversational Interfaces**
+#### Fri. 3/30 **| Understanding Demos | Conversational Interfaces**
 - DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
-- Work on chatbots.
 - READ (14 minutes): [Technical and social challenges of conversational design](https://uxdesign.cc/my-website-is-now-conversational-here-is-what-i-learned-7e943cc6ace0)
 - READ (9 minutes): [How to design a robust chatbot interaction](https://uxdesign.cc/how-to-design-a-robust-chatbot-interaction-8bb6dfae34fb)
 - READ: [Conversation Design: Speaking the Same Language (Google)](https://design.google/library/conversation-design-speaking-same-language/)
@@ -94,17 +93,16 @@ title: Reading Schedule
 - DUE: [Design for Understanding Doc](../designs/datavis_assn.html)
 - Work on chatbots
 
-#### Tue. 4/3 **| Chatbot Demos + Doc**
-- DUE: Chatbot Doc (Sunday at 11pm)
+#### Tue. 4/3 **| Chatbot Hack Day**
+- Work on chatbots
 
 #### Thu. 4/5 **| 3D User Interfaces + Fun**
-- _Start Design for Fun._
 - WATCH (17 minutes): [The Wekinator by Rebecca Fiebrink](https://www.youtube.com/watch?v=yc5CL5EoPqg)
 - READ: [32.1-2, 32.4-5: 3D User Interfaces](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/3d-user-interfaces)
 - WATCH (8 min): [Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)
-- READ (7 pages): [Make Things Engaging](https://drive.google.com/open?id=0B9wW7gtF6dvRd0lrQUlpQVBHczg)
+- READ (7 pages): [Make Things Engaging](TODO)
 
-#### Fri. 4/6 **| Leap Motion Hack Day**
+#### Fri. 4/6 **| Chatbot/Tension Demos | Hack Day**
 - DUE: [Design for Tension Demo](../designs/chatbot_assn.html)
 - READ: [8 Prototypes that Show the Future of HCI](https://www.fastcodesign.com/3059848/8-incredible-prototypes-that-show-the-future-of-human-computer-interaction)
 - READ (4 pages): [Gesture Interfaces: A Step Backward in Usability](http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf)
@@ -113,12 +111,10 @@ title: Reading Schedule
 
 #### Mon. 4/9 **| Input Technologies and Techniques**
 - DUE: [Design for Tension Doc](../designs/chatbot_assn.html)
-- READ (35 pages): [Input Technologies and Techniques (Ken Hinckley and Daniel Wigdor)](https://drive.google.com/open?id=0B9wW7gtF6dvROWZXYTVpSzVoaE0)
+- READ (35 pages): [Input Technologies and Techniques (Ken Hinckley and Daniel Wigdor)](TODO)
 
 #### Tue. 4/11 **| Affective Computing**
 _Start [Design for Wellbeing](../designs/emotion_assn.html)_
-
-**Note: This will be a GROUP quiz with the intention that one or more group members can focus primarily on javascript/HTML**
 
 _Reading and Watching Track_
 - WATCH (~16 minutes): [Rafael Calvo: Time for Technologies to Respect our Psychological Needs](https://www.youtube.com/watch?v=wUvmqKvZQ-0)
@@ -137,14 +133,12 @@ _Javascript and JQuery (Do enough to know basics)_
 _Hack on Affectiva!_
 - WATCH (20 minutes): [The Future of Affective Computing](https://www.youtube.com/watch?v=bbGP53IIMfg)
 
-#### Fri. 4/13 **| Design for Fun Demo Day**
-- DUE: [Design for Fun Demo](../designs/gesture_assn.html)
+#### Fri. 4/13 **| Wellbeing midpoint Demo Day**
 
 ## Week 6
 
 #### Mon. 4/16 **| Patriots' Day Holiday**
 _No class. Patriots' Day._
-- DUE: [Design for Fun Doc](../designs/gesture_assn.html)
 
 #### Tue. 4/17 **| Intelligent User Interfaces**
 - READ (Intro + Principles): [Principles of Mixed-Initiative User Interfaces (Eric Horvitz)](http://erichorvitz.com/chi99horvitz.pdf

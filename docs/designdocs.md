@@ -6,7 +6,7 @@ exclude: true
 
 At the conclusion of each design sprint, you and your team will construct a public facing document that presents your process and outcome. This will consist of:
 
-1. **A post on Medium.com**. You may choose to make this a private or public link. However, I am hoping to choose the 2 or 3 consensus favorite outcomes of each assignment and make them public on the [_WPI HCI_ Medium account](https://medium.com/wpi-hci). **You should paste your link on the wiki of our course**
+1. **A post on Medium.com**. You may choose to make this a private or public link. However, I am hoping to choose the 2 or 3 consensus favorite outcomes of each assignment and make them public on the [_WPI HCI_ Medium account](https://medium.com/wpi-hci).
 
 2. Embedded in your post, **a demo video** that shows interaction with your technology, highlighting the key design decisions that you made. This will likely require you uploading your video to a public service (such as YouTube). _Note: Some of your assignments may NOT require a video. Read the instructions carefully_.
 
