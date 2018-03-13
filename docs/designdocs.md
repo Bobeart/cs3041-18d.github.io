@@ -18,11 +18,11 @@ In May 2017, I sat down with a design researcher from Google to talk about what 
 
 Introducing new technology at the scale of Google (_millions_ of people) is a risky proposition. Small misconceptions can go wrong very quickly. In that environment, it is critical to not only create a good product, but be able to articulate the decisions you made along the way.
 
-This requirement is to make my Google friends happy - you will be creating public-facing design documents that accompany each of your design sprints. If you do it well, these documents are invaluable to future employees to understand the kind of employee that they will potentially hire. More importantly, it forces you to justify your own decisions within the context of people - not just program functionality.
+This requirement is to make my Google friends happy - you will be creating public-facing design documents that accompany each of your design sprints. If you do it well, these documents are invaluable to future employers to understand the kind of employee that they will potentially hire. More importantly, it forces you to justify your own decisions within the context of people - not just program functionality.
 
 ### What should be in my design reflection?
 
-**Start with a one-paragraph summary**. This should highlight what your design objectives were and what you created. If someone refuses to read a word of your post beyond this first paragraph, they should still have the gist of what tried to create.
+**Start with a one-paragraph summary**. This should highlight what your design objectives were and what you created. If someone refuses to read a word of your post beyond this first paragraph, they should still have the gist of what you tried to create.
 
 **The majority of your post should clearly walk through and reflect on the design stages that you went through to arrive at the final prototype.** At each stage, include some form of evidence - a video/photo of you testing your app with users, photos of the sketches you made to brainstorm your app context, a gif of some interaction you were testing out... anything!
 
@@ -92,6 +92,8 @@ Somewhere in your design post, a demo video should be embedded that shows intera
 ### Multimedia for your Videos
 Since our intention is to be able to broadly share these videos, it is important that we take into account copyright considerations. The following is a list of royalty-free high quality resources for you to use. _We will be updating this list throughout the term._
 - [Unsplash:](https://unsplash.com/) you can find high-resolution royalty-free photos here.
+- [FreeSound:](https://freesound.org/) has a lot of royalty-free audio, although you will need to make an account.
+- [OpenGameArt:](https://opengameart.org/) features assets of all kinds including sound and visuals, just be sure to check the licensing for the particular piece you intend to use!
 - **More to come.**
 
 ### Recording your Video
@@ -104,7 +106,7 @@ Your video should be as high quality as possible. For many of your screen-based 
 You'll also need a decent video editor to put together sight and sound.
 
 - **On Mac:** _iMovie_ is probably your best bet. It provides a very easy drag-and-drop interface to import music, videos, and images, as well as create basic annotations (titles).
-
+- **On Windows:** Most of the computers in Fuller and Higgins labs are outfitted with _Camtasia_ and _Adobe Premier_, both of which are great video editors with built in screen recorders. [_VSDC_](http://www.videosoftdev.com/free-video-editor) is great if you are looking for a non-commercial piece of software (just be sure to save your work often), and there are plenty of Windows Store apps and Google Chrome extensions that will work in a pinch.
 
 -----------------
 
