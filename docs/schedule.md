@@ -3,7 +3,7 @@ layout: page
 title: Reading Schedule
 ---
 
-**Updated:** March 11, 2018
+**Updated:** March 12, 2018
 
 ## Week 1
 
