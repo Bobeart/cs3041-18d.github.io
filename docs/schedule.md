@@ -37,7 +37,7 @@ title: Reading Schedule
 #### Fri. 3/16 **| Human Abilities + Visual Design**
 - DUE: [Good/Bad Design](../designs/goodbad_assn.html)
 - LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
-- READ (80+ slides): [Human Abilities](TODO)
+- READ (80+ slides): [Human Abilities](../docs/HumanAbilities.pptx)
 - WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
 - READ (7 min): [How to Make Your Not-So-Great Visual Design Better](https://medium.com/facebook-design/how-to-make-your-not-so-great-visual-design-better-67972eee3825)
 - READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
