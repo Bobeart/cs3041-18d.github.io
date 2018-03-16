@@ -56,7 +56,7 @@ title: Reading Schedule
 
 #### Thu. 3/22 **| Data Visualization**
 - WATCH (8 min): [The Art of Data Visualization](https://www.youtube.com/watch?v=AdSZJzb-aX8)
-- READ (80 slides): [Data Visualization](TODO)
+- READ (80 slides): [Data Visualization](../docs/reading/Visualization.pptx)
 - READ/WATCH: [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73) \| [Accompanying Talk](https://www.youtube.com/watch?v=s0J6EDvlN30)
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - _OPTIONAL:_ [Data Storytelling: The Ultimate Collection of Resources](http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii)
@@ -68,10 +68,10 @@ title: Reading Schedule
 
 #### Mon. 3/26 **| Interactive Vis**
 - DUE: [Design for Others Design Doc](../designs/visual_assn.html)
-- _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE!)](TODO)
+- _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE 450MB!)](http://web.cs.wpi.edu/~ltharrison/docs/isenberg_interaction.pptx)
 
 #### Tue. 3/27 **| User Testing + Hack Day**
-- READ (22 slides): [User Testing](TODO)
+- READ (22 slides): [User Testing](../docs/reading/User_Testing.pptx)
 - WATCH: [Rocket Surgery Made Easy: Usability Demo (Steve Krug)](https://www.youtube.com/watch?v=QckIzHC99Xc)
 
 #### Thu. 3/29 **| Crowdsourcing + Social Psych**
@@ -100,7 +100,7 @@ title: Reading Schedule
 - WATCH (17 minutes): [The Wekinator by Rebecca Fiebrink](https://www.youtube.com/watch?v=yc5CL5EoPqg)
 - READ: [32.1-2, 32.4-5: 3D User Interfaces](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/3d-user-interfaces)
 - WATCH (8 min): [Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)
-- READ (7 pages): [Make Things Engaging](TODO)
+- READ (7 pages): [Make Things Engaging](../docs/reading/MakeThingsEngaging.pdf)
 
 #### Fri. 4/6 **| Chatbot/Tension Demos | Hack Day**
 - DUE: [Design for Tension Demo](../designs/chatbot_assn.html)
@@ -111,7 +111,7 @@ title: Reading Schedule
 
 #### Mon. 4/9 **| Input Technologies and Techniques**
 - DUE: [Design for Tension Doc](../designs/chatbot_assn.html)
-- READ (35 pages): [Input Technologies and Techniques (Ken Hinckley and Daniel Wigdor)](TODO)
+- READ (35 pages): [Input Technologies and Techniques (Ken Hinckley and Daniel Wigdor)](../docs/reading/input_devices.pdf)
 
 #### Tue. 4/11 **| Affective Computing**
 _Start [Design for Wellbeing](../designs/emotion_assn.html)_
