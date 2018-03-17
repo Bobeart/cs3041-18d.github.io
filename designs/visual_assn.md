@@ -25,7 +25,7 @@ In this design sprint, you will take one of the following existing websites by a
 
 1. [WCTI](https://www.wcti.org/)
 2. [Technocopia](http://technocopia.org/)
-3. [Worcester Public Library](http://unioncountylibraries.org/)
+3. [Worcester Public Library](http://www.mywpl.org/)
 
 
 **Here's the catch:** you aren't just translating the exiting design to a mobile context for the general public. Instead, imagine that your users' mobile phones redesigned the website on the fly to _specifically cater to their needs and preferences_.
