@@ -17,6 +17,7 @@ In this course, we will study both people and technology to  understand the beha
 - **When:** 12:00-12:50, MTThF
 
 ## Resources
+**Fill out the Google Form here: [Reading Feedback Form](https://goo.gl/forms/9YribW48cQJjZiS42)**
 - [Course Syllabus](docs/syllabus.html)
 - [Reading Schedule](docs/schedule.html)
 - [Design Doc Instructions](docs/designdocs.html)
