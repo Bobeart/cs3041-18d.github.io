@@ -4,7 +4,7 @@ title: Design for Others
 exclude: true
 ---
 
-- **Group size:** Teams of 3 (one team of 4)
+- **Group size:** Teams of 3 (1-2 teams of 4)
 - **Demo Day:** 3/23 _in class_
 - **Design Doc Due:** 3/26, 11:59 PM
 
@@ -28,12 +28,12 @@ In this design sprint, you will take one of the following existing websites by a
 3. [Worcester Public Library](http://www.mywpl.org/)
 
 
-**Here's the catch:** you aren't just translating the exiting design to a mobile context for the general public. Instead, imagine that your users' mobile phones redesigned the website on the fly to _specifically cater to their needs and preferences_.
+**Here's the catch:** you aren't just translating the existing design to a mobile context for the general public. Instead, imagine that your users' mobile phones redesigned the website on the fly to _specifically cater to their needs and preferences_.
 
 You will be designing for a specific user group _that only your team knows_. On our demo day, the rest of the class will be making their best guess as to which demographic you are catering to. For example, you could be asked to design for one of the following groups (I am going to intentionally NOT use either of these groups):
 
 - College students
-- People who live in Lewisburg in their 50s
+- People who live in Worcester in their 50s
 
 While you will not redesign the entire website, you should redesign _4-5_ pages on the website. One of those pages *must be the homepage*. The others must be accessible from the homepage.
 
@@ -75,8 +75,8 @@ Invision is fantastic, but it isn't magic. You're still going to need to create 
 **Output:** The redesigned homepage of your website on invision. There should be 3-4 other web pages that are linked on off the homepage that you have also redesigned.
 
 ## Deliverables
-- **Demo Day (9/12):** You should have an invision link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
-- **Delivery Day (9/14):** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on this [assignment's page on our wiki](https://github.com/cs3041-18d/design-for-others/wiki). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
+- **Demo Day:** You should have an invision link handy and ready for you to present in class on the day of your demo. Your classmate will critique your work (using the _I like, I wish, What if_ framework) and also try to guess your target demographic... despite having no previous knowledge.
+- **Delivery Day:** The output from this assignment should be the [design document](../docs/designdocs.html). Post the link to your post on the assignment turnin Google Sheet on our homepage. As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a _minimum_ of the following:
   - pictures of your various sketches
   - a picture of your moodboard
   - pictures of your final product (more broadly, the evolution of your design should be clear)
