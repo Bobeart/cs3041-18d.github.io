@@ -28,7 +28,7 @@ In this course, we will study both people and technology to  understand the beha
 _For examples of student work, see the [CSCI379 publication](https://medium.com/bucknell-hci/tagged/csci379-hci) page at [Bucknell HCI's Medium](https://medium.com/bucknell-hci)_
 
 - [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=0) \| _Due 3/16, 11:59 PM_
-- [Design for Others](designs/visual_assn.html) **-->** [submit](#) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
+- [Design for Others](designs/visual_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=304752249) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
 - [Design for Understanding](designs/datavis_assn.html) **-->** [submit](#) \| _Demo 3/30_ \| _Doc 4/2, 11:59 PM_
 - [Design for Tension](designs/chatbot_assn.html) **-->** [submit](#) \| _Demo 4/6_ \| _Doc 4/9 , 11:59 PM_
 - [Design for Fun](designs/gesture_assn.html) **-->** [submit](#) \| _Demo 4/13_ \| _Doc 4/16, 11:59 PM_
