@@ -79,8 +79,7 @@ title: Reading Schedule
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
 - _REFERENCE:_  People + Computation Slides -- SEE Slack
 
-#### Fri. 3/30 **| Understanding Demos | Conversational Interfaces**
-- DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
+#### Fri. 3/30 **| Conversational Interfaces**
 - READ (14 minutes): [Technical and social challenges of conversational design](https://uxdesign.cc/my-website-is-now-conversational-here-is-what-i-learned-7e943cc6ace0)
 - READ (9 minutes): [How to design a robust chatbot interaction](https://uxdesign.cc/how-to-design-a-robust-chatbot-interaction-8bb6dfae34fb)
 - READ: [Conversation Design: Speaking the Same Language (Google)](https://design.google/library/conversation-design-speaking-same-language/)
@@ -89,11 +88,11 @@ title: Reading Schedule
 
 ## Week 4
 
-#### Mon. 4/2 **| Chatbot Hack Day**
-- DUE: [Design for Understanding Doc](../designs/datavis_assn.html)
-- Work on chatbots
+#### Mon. 4/2 **| Understanding Demos**
+- DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
 
 #### Tue. 4/3 **| Chatbot Hack Day**
+- DUE: [Design for Understanding Doc](../designs/datavis_assn.html)
 - Work on chatbots
 
 #### Thu. 4/5 **| 3D User Interfaces + Fun**
@@ -102,19 +101,19 @@ title: Reading Schedule
 - WATCH (8 min): [Bill Buxton on Natural User Interfaces](https://www.youtube.com/watch?v=NcdrfacG_y4)
 - READ (7 pages): [Make Things Engaging](../docs/reading/MakeThingsEngaging.pdf)
 
-#### Fri. 4/6 **| Chatbot/Tension Demos | Hack Day**
-- DUE: [Design for Tension Demo](../designs/chatbot_assn.html)
+#### Fri. 4/6 **| Chatbot Hack Day**
 - READ: [8 Prototypes that Show the Future of HCI](https://www.fastcodesign.com/3059848/8-incredible-prototypes-that-show-the-future-of-human-computer-interaction)
 - READ (4 pages): [Gesture Interfaces: A Step Backward in Usability](http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf)
 
 ## Week 5
 
 #### Mon. 4/9 **| Input Technologies and Techniques**
-- DUE: [Design for Tension Doc](../designs/chatbot_assn.html)
+- DUE: [Design for Tension Demo](../designs/chatbot_assn.html)
 - READ (35 pages): [Input Technologies and Techniques (Ken Hinckley and Daniel Wigdor)](../docs/reading/input_devices.pdf)
 
-#### Tue. 4/11 **| Affective Computing**
+#### Tue. 4/10 **| Affective Computing**
 _Start [Design for Wellbeing](../designs/emotion_assn.html)_
+- DUE: [Design for Tension Doc](../designs/chatbot_assn.html)
 
 _Reading and Watching Track_
 - WATCH (~16 minutes): [Rafael Calvo: Time for Technologies to Respect our Psychological Needs](https://www.youtube.com/watch?v=wUvmqKvZQ-0)
@@ -141,7 +140,7 @@ _Hack on Affectiva!_
 _No class. Patriots' Day._
 
 #### Tue. 4/17 **| Intelligent User Interfaces**
-- READ (Intro + Principles): [Principles of Mixed-Initiative User Interfaces (Eric Horvitz)](http://erichorvitz.com/chi99horvitz.pdf
+- READ (Intro + Principles): [Principles of Mixed-Initiative User Interfaces (Eric Horvitz)](http://erichorvitz.com/chi99horvitz.pdf)
 - READ (Intro + Usability Principles): [Steps to Take Before Intelligent User Interfaces Become Real (Kristina Höök)](https://drive.google.com/open?id=0B9wW7gtF6dvRNXU5b1BYaWhPMzg)
 
 #### Thu. 4/19 **| Design for Wellbeing Demo Day**
