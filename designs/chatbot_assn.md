@@ -51,8 +51,6 @@ Develop your chatbot and then **test it with real people**. Don't just assume it
 
 - [Botsify](https://botsify.com/): _another_ Facebook-based chatbot creator.
 
-_NOTE: I will continue to update this list through the end of the week_
-
 
 ## Deliverables
 - As always: Your design reflection as a Medium blog post. Since your bot may not live forever, **you WILL need a demo video that captures all important conversational aspects**.
