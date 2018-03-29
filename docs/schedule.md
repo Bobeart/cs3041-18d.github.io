@@ -77,7 +77,7 @@ title: Reading Schedule
 #### Thu. 3/29 **| Crowdsourcing + Social Psych**
 - READ: [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
-- _REFERENCE:_  [People + Computation Slides](https://drive.google.com/open?id=0B9wW7gtF6dvRZjhobWktUHNXMms)
+- _REFERENCE:_  People + Computation Slides -- SEE Slack
 
 #### Fri. 3/30 **| Understanding Demos | Conversational Interfaces**
 - DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
