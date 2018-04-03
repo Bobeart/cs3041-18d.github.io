@@ -30,11 +30,11 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 
 - [Good Design, Bad Design](designs/goodbad_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=0) \| _Due 3/16, 11:59 PM_
 - [Design for Others](designs/visual_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=304752249) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
-- [Design for Understanding](designs/datavis_assn.html) **-->** [submit](#) \| _Demo 4/2_ \| _Doc 4/3, 11:59 PM_
-- [Design for Tension](designs/chatbot_assn.html) **-->** [submit](#) \| _Demo 4/9_ \| _Doc 4/10 , 11:59 PM_
+- [Design for Understanding](designs/datavis_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=711832985) \| _Demo 4/2_ \| _Doc 4/3, 11:59 PM_
+- [Design for Tension](designs/chatbot_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=1873200654) \| _Demo 4/9_ \| _Doc 4/10 , 11:59 PM_
 - ~~[Design for Fun](designs/gesture_assn.html) **-->** [submit](#) \| _Demo 4/13_ \| _Doc 4/16, 11:59 PM_~~
-- [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](#) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
-- [Design for Another World](designs/vr_assn.html) **-->** [submit](#) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
+- [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=220366641) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
+- [Design for Another World](designs/vr_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=175718970) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
 
 **Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of the last day of class_
 
