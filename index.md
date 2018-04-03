@@ -19,6 +19,8 @@ In this course, we will study both people and technology to  understand the beha
 ## Resources
 **[Availability Matrix for ALL projects (see bottom tabs)](https://docs.google.com/spreadsheets/d/1XP1acIxYnwktZnutnE5nyHl2-kfNOfGkjPqyZFTDWWM/edit#gid=1483891469)  
 **[Reading Feedback Form](https://goo.gl/forms/9YribW48cQJjZiS42)**
+- [Design Feedback Form](https://goo.gl/forms/OuwJuS3ELupkHFgy2)
+- [Team Reflection Form](https://goo.gl/forms/4vpDLMoqeSCxr5LF2)
 - [Course Syllabus](docs/syllabus.html)
 - [Reading Schedule](docs/schedule.html)
 - [Design Doc Instructions](docs/designdocs.html)
