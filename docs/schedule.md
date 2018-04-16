@@ -141,7 +141,7 @@ _No class. Patriots' Day._
 
 #### Tue. 4/17 **| Intelligent User Interfaces**
 - READ (Intro + Principles): [Principles of Mixed-Initiative User Interfaces (Eric Horvitz)](http://erichorvitz.com/chi99horvitz.pdf)
-- READ (Intro + Usability Principles): [Steps to Take Before Intelligent User Interfaces Become Real (Kristina Höök)](https://drive.google.com/open?id=0B9wW7gtF6dvRNXU5b1BYaWhPMzg)
+- READ (Intro + Usability Principles): [Steps to Take Before Intelligent User Interfaces Become Real (Kristina Höök)](http://www.cs.uu.nl/docs/vakken/b3ii/Intelligente%20Interactie%20literatuur/College%201.%20Intelligentie%20(Beun)/Extra%20literatuur/Steps%20to%20take%20before%20IUIs%20become%20real_Hook.pdf)
 
 #### Thu. 4/19 **| Design for Wellbeing Demo Day**
 - DUE: [Design for Wellbeing Demo](../designs/emotion_assn.html)
