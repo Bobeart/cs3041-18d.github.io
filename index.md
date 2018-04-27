@@ -38,7 +38,7 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 - [Design for Wellbeing](designs/emotion_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=220366641) \| _Demo 4/19_ \| _Doc 4/23, 11:59 PM_
 - [Design for Another World](designs/vr_assn.html) **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=175718970) \| _Demo 4/27_ \| _Doc 4/30, 11:59 PM_
 
-**Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of the last day of class_
+**Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _At the beginning of the last day of class_ **-->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=667431766)
 
 ## Attribution
 This course is adapted from Prof. Evan Peck's HCI course at Bucknell University.
